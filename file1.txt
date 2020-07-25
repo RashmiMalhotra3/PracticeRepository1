@@ -3,5 +3,3 @@ file1
 sample line of code
 
 modified file again to try command git commit -a -m "<comment>" to combine add and commit
-
-line 2: testing git diff command
