@@ -1,5 +1,5 @@
 file1
 
-sample line of code
+sample line of code - conflict test - change in remote repo
 
 modified file again to try command git commit -a -m "<comment>" to combine add and commit
